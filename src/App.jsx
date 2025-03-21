@@ -6,7 +6,7 @@ import {
   Route,
   RouterProvider, 
 } from "react-router-dom";
-import Sharts from './Pages/Sharts.JSX';
+import Sharts from './Pages/Sharts.jsx';
 import Subscriptions from './Pages/Subscriptions';
 import Profile from './Pages/profile';
 import Home from './Pages/Home';
